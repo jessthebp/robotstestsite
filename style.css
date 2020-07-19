@@ -25,6 +25,13 @@ nav,
 section {
 	display: block;
 }
+nav {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+ background-color: black;
+	color: bonewhite;
+}
 
 summary {
 	display: list-item;
@@ -81,5 +88,9 @@ h6 {
 }
 
 img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
 width: 80%;	
 }
